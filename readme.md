@@ -19,6 +19,10 @@ Welcome to the Chat with Multiple PDFs GitHub repository! This project is a Stre
 A demo of the application:
 
 
+https://github.com/PC-FSU/multi-pdf-query/assets/58872472/8c1c675e-48dc-472e-9d79-287b92f493fa
+
+
+
 ## Features
 - Upload and process local PDF files.
 - Enter URLs of PDFs to extract and process their content.
