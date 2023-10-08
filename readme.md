@@ -62,7 +62,7 @@ The application use [RAG](https://research.ibm.com/blog/retrieval-augmented-gene
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/PC-FSU/multi-pdf-query
+   git clone https://github.com/PC-FSU/multi-pdf-query.git
 
 2. Change to the project directory:
 
