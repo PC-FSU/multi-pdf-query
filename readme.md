@@ -74,7 +74,7 @@ The application use [RAG](https://research.ibm.com/blog/retrieval-augmented-gene
    pip install -r requirements.txt
    ```
    
-4. Rename .my_env to .env. Add your open API key (Huggingface key(optional)) to .env file.
+4. Rename .my_env file to .env. Add your open API key (Huggingface key(optional)) to .env file.
 
    
 ### Usage
